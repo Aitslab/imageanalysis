@@ -1,0 +1,4 @@
+QC pipelines for CellProfiler are named QC_CPXXX_YYYYMMDD_XXXX
+the numbers after CP indicate the CellProfiler version used to create the pipeline
+the date refers to the date of the first version of the pipeline was created
+the numbers after the date refer to the version of the pipeline
