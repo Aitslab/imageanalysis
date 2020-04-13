@@ -1,0 +1,26 @@
+Images/objects that need to be excluded:
+
+    Empty field: no cells in samples which have very high cell death
+    Foreign object: dust particles, damaged plate bottom, bacterial or fungal contamination
+    Out of focus - entire image
+    Out of focus - individual cells
+    Clumped cells
+    Fragmented cells
+    Overlapping cells
+    Unusual illumination errors (besides what we have on every plate)
+    Image corruption - entire image
+    Image corruption - partial image
+
+
+Other QC issues:
+
+    Uneven illumination across plates => illumination correction
+    Uneven illumination within individual images/wells
+    Recurrent pixel artefacts (e.g. detector damage)
+    Batch effects from week to week (differences in illumination, stain intensity, transfection efficiency, cell number and “untreated” cell status)
+    systematic effects related to order of plate processing (16 plates were processed in each experiment)
+    whole-plate effects (left side of plate different from right, centre different from outer wells due to uneven evaporation “edge effect”)
+    pipetting errors affecting one column/row/well (every week or just once)
+    cell population-dependent effects (cells unevenly distributed across well)
+    Altered autofluorescence
+    Image corruption - partial image or recurrent pixel artefacts
