@@ -3,3 +3,7 @@ Code for image processing
 - blurring
 - C01 to tiff
 - C01 to png
+
+Useful library:
+
+https://github.com/mapillary/Augmentor
