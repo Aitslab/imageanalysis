@@ -8,7 +8,8 @@
 
 > None of the notebooks are runnable without additional local scripts and files. See https://github.com/carpenterlab/unet4nuclei/tree/master/unet4nuclei for more details. 
 
-Additional datasets that can be used:
+Additional nuclear segmentation ground truth datasets that can be used:
+
 https://data.broadinstitute.org/bbbc/image_sets.html
 
 BBBC006 (both in and out of focus)
