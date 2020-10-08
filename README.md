@@ -20,3 +20,9 @@ https://wiki.helsinki.fi/plugins/servlet/mobile?contentId=283225345#content/view
 http://www.robots.ox.ac.uk/~vgg/software/via/
 
 https://github.com/openvinotoolkit/cvat/
+
+http://labelme.csail.mit.edu/Release3.0/
+
+https://labelbox.com/
+
+https://github.com/tylin/coco-ui
