@@ -28,3 +28,6 @@ https://labelbox.com/
 https://github.com/tylin/coco-ui
 
 https://www.gimp.org/
+
+## Augmentation tools
+https://github.com/aleju/imgaug
