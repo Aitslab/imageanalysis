@@ -1,4 +1,4 @@
-Code used in the segmentaion project comes from 
+Code used in the segmentaion project makes use of code from
 
 Broad Institute Carpenter Lab
 
