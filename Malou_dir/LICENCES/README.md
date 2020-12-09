@@ -8,3 +8,5 @@ https://github.com/carpenterlab/unet4nuclei
 Howard Hughes Medical Institute
 
 https://github.com/MouseLand/cellpose
+
+Original licenses are in this folder.
