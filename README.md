@@ -29,5 +29,8 @@ https://github.com/tylin/coco-ui
 
 https://www.gimp.org/
 
+https://github.com/heartexlabs/label-studio
+
 ## Augmentation tools
 https://github.com/aleju/imgaug
+
