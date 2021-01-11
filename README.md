@@ -34,3 +34,6 @@ https://github.com/heartexlabs/label-studio
 ## Augmentation tools
 https://github.com/aleju/imgaug
 
+## Practice datasets
+https://sites.google.com/site/aacruzr/image-datasets?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1
+
