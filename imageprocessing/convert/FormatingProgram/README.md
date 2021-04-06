@@ -4,7 +4,7 @@ This script will allow you to change format of all images in one folder to one o
 
 ## Usage
 ```bash
-python3 format_convertion.py -i INDIR -o OUTDIR -ift IN_FILETYPE -oft OUT_FILETYPE
+python3 format_conversion.py -i INDIR -o OUTDIR -ift IN_FILETYPE -oft OUT_FILETYPE
 ```
 Choose a directory with your files to convert, which format they are (e.g. C01, png, tiff, jpg), and name the output directory where you want to place the converted images, and what format you want to convert them to (e.g. C01, png, tiff, jpg).
 
